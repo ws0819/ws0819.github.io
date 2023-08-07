@@ -1,6 +1,8 @@
-# - name: Home
-#   link: /
-# - name: About
-#   link: /about/
-# - name: Portfolio
-#   link: /portfolio/
+- name: Home
+  link: /
+- name: About
+  link: /about/
+- name: Portfolio
+  link: /portfolio/
+- name: Develop
+  link: /develop/
