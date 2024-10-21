@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: develop
 title: 개발일지
 permalink: /develop/
 ---
